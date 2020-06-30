@@ -1,0 +1,24 @@
+{
+  "name": "greeting",
+  "version": "1.0.0",
+  "description": "Testing Hello World",
+  "main": "hello.js",
+  "dependencies": {
+    "course-utilities": "^1.0.0",
+    "jest": "^26.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kogsio/greeting.git"
+  },
+  "author": "abel@mit.edu",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kogsio/greeting/issues"
+  },
+  "homepage": "https://github.com/kogsio/greeting#readme"
+}
